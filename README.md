@@ -13,3 +13,7 @@ This program is a system programming assignment for the university course "Κ24 
 ## Project Structure
 
 The project is structured with separate .cpp and .h files for each custom data structure and utility function, providing a learning platform for system programming and data structure implementation.
+
+## License
+
+This project is for educational use only and is part of the coursework for _Κ24 System Programming_ at _DiT, NKUA_.
